@@ -1,0 +1,31 @@
+*{
+  background-color:teal;
+}
+.title{
+  color:red;
+}
+.info{
+  color:maroon;
+}
+.counter-time{
+  background-color: black;
+  height:100px;
+  width:50px;
+}
+.timer{
+  background-color: fuchsia;
+  height:100px;
+  width:120px;
+  font-size: 30px;
+  font-family: 'Courier New';
+  font-weight: bold;
+}
+.timer-text{
+  background-color: fuchsia;
+  height:30px;
+  width:10px;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Courier New';
+  font-weight: bold;
+}
